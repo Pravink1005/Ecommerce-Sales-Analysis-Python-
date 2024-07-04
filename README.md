@@ -28,6 +28,8 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+Dataset is size large so if you want contacts me
+
 contacts:
 
 Linkedin - https://www.linkedin.com/in/pravin-kumar-1b59ab2ab/
